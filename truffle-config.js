@@ -33,6 +33,13 @@ module.exports = {
       network_id: 5001,
       skipDryRun: true
     },
+    mumbai: {
+      provider: () => new HDWalletProvider(mnemonic, "https://polygon-testnet.public.blastapi.io"),
+      network_id: 80001,
+      gas: 0,
+      gasPrice: 2100000001, //3 Gwei,
+      skipDryRun: true
+    },
     
   },
   plugins: [
