@@ -4,5 +4,8 @@
   },
   "mantle_testnet": {
     "router": "0xEB82D57081e600dc4f3a0877D04f4099ed641757"
+  },
+  "mumbai": {
+    "router": "0x755c8d2DC0c5F391BB4ED72d42098b43Dae6cba5"
   }
 }
