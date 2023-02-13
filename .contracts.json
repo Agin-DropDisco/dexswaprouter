@@ -3,7 +3,7 @@
     "router": "0x0000000000000000000000000000000000000000"
   },
   "mantle_testnet": {
-    "router": "0xd1b895D24EDcb049Ce154a1c763366F343462213"
+    "router": "0xd84EcE3CeC244c2d4fdfc0AFB4d3EF3622E88C0D"
   },
   "mumbai": {
     "router": "0x755c8d2DC0c5F391BB4ED72d42098b43Dae6cba5"
